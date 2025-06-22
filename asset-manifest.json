@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/url-safety-fullstack/static/css/main.a25ca35b.css",
+    "main.js": "/url-safety-fullstack/static/js/main.4afbed65.js",
+    "index.html": "/url-safety-fullstack/index.html",
+    "main.a25ca35b.css.map": "/url-safety-fullstack/static/css/main.a25ca35b.css.map",
+    "main.4afbed65.js.map": "/url-safety-fullstack/static/js/main.4afbed65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25ca35b.css",
+    "static/js/main.4afbed65.js"
+  ]
+}
