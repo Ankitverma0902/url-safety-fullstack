@@ -4,6 +4,11 @@ A modern full-stack web application to check the safety of URLs in real-time usi
 
 ---
 
+## 📸 Screenshot
+
+![URL Safety Checker Screenshot](./frontend/public/image-1.png)
+![URL Safety Checker Screenshot](./frontend/public/iamge-2.png)
+
 ## 🧩 Features
 
 - ✅ Real-time URL scanning
